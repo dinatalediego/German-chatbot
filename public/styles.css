@@ -1,0 +1,13 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.chat-area {
+    height: 400px;
+    overflow-y: scroll;
+    background: #ffffff;
+}
+
+#user-input {
+    width: 100%;
+}
